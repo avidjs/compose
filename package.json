@@ -40,6 +40,7 @@
     "codecov": "^2.3.0",
     "cross-env": "^5.0.5",
     "eslint": "^4.6.1",
+    "koa-compose": "^4.0.0",
     "matcha": "^0.7.0",
     "mocha": "^3.5.3",
     "nyc": "^11.2.1",
