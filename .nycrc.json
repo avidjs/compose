@@ -1,5 +1,6 @@
 {
   "exclude": [
+    "benchmarks",
     "coverage",
     "node_modules",
     "test"

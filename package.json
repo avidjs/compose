@@ -26,6 +26,7 @@
   },
   "license": "MIT",
   "scripts": {
+    "benchmark": "matcha",
     "coverage": "codecov",
     "lint": "eslint lib/",
     "test": "cross-env NODE_ENV=test nyc mocha test/**/*.spec.js"
@@ -33,15 +34,13 @@
   "engines": {
     "node": ">=7.6.0"
   },
-  "dependencies": {
-    "bluebird": "^3.5.0"
-  },
   "devDependencies": {
     "chai": "^4.1.2",
     "chai-as-promised": "^7.1.1",
     "codecov": "^2.3.0",
     "cross-env": "^5.0.5",
     "eslint": "^4.6.1",
+    "matcha": "^0.7.0",
     "mocha": "^3.5.3",
     "nyc": "^11.2.1",
     "sinon": "^3.2.1",
