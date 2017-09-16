@@ -1,0 +1,16 @@
+{
+  "exclude": [
+    "coverage",
+    "node_modules",
+    "test"
+  ],
+  "include": [
+    "lib/**/*.js"
+  ],
+  "instrument": true,
+  "sourceMap": true,
+  "reporter": [
+    "lcov",
+    "text"
+  ]
+}
