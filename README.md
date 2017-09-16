@@ -9,7 +9,7 @@
 
 > Composes an array of middleware functions into a call-able middleware stack.
 
-Essentially, a fork of [`koa-compose`](https://github.com/koajs/compose) that features more exhaustive commenting, favors [`bluebird`](https://github.com/petkaantonov/bluebird/) for Promises, and doesn't perform type checking for every element in the array argument.
+Essentially, a fork of [`koa-compose`](https://github.com/koajs/compose) that features more exhaustive commenting and doesn't perform type checking for every element in the array argument.
 
 Part of [Avid](https://github.com/avidjs), an attempt to better understand [Koa](http://koajs.com/) and [Express](https://expressjs.com/) by taking them apart.
 
