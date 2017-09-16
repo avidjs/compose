@@ -5,8 +5,56 @@
   "author": "Connor Wiseman",
   "contributors": [
     {
+      "name": "Jonathan Ong",
+      "url": "https://github.com/jonathanong"
+    },
+    {
+      "name": "TJ Holowaychuk",
+      "url": "https://github.com/tj"
+    },
+    {
       "name": "Connor Wiseman",
-      "url": "https://github.com/avidjs/"
+      "url": "https://github.com/ConnorWiseman/"
+    },
+    {
+      "name": "Lee Bousfield",
+      "url": "https://github.com/PlasmaPower"
+    },
+    {
+      "name": "Paul Grenier",
+      "url": "https://github.com/AutoSponge"
+    },
+    {
+      "name": "Haokang Den",
+      "url": "https://github.com/hden"
+    },
+    {
+      "name": "Jérôme Wagner",
+      "url": "https://github.com/jeromew"
+    },
+    {
+      "name": "Martin Iwanowsky",
+      "url": "https://github.com/fl0w"
+    },
+    {
+      "name": "Stephen Mathieson",
+      "url": "https://github.com/stephenmathieson"
+    },
+    {
+      "name": "سید مرتضی موسوی",
+      "url": "https://github.om/smmoosavi"
+    },
+    {
+      "name": "Tejas Manohar",
+      "url": "https://github.com/tejasmanohar"
+    },
+    {
+      "name": "C. T. Lin",
+      "url": "https://github.com/chentsulin"
+    },
+    {
+      "name": "Cesar Andreu",
+      "url": "https://github.com/cesarandreu"
     }
   ],
   "homepage": "https://github.com/avidjs/compose#readme",
